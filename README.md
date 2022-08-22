@@ -2,6 +2,7 @@
 ## Overview of Project
 This project attempts to filter a list of ufo sightings based on various criteria, such as location- specific up to a given city- date, and ufo shape. 
 It presents this information in a webpage, providing an easy tool for seasoned enthusiasts and new converts to ufology to use without needing any knowledge of coding or specialized software like python installed on their system.
+The project is hosted on github pages, here: https://chrisjanderson.github.io/UFOs/
 ## Results
 Using this page is simple.
 A user is presented with filter criteria to the left of the page, shown below.  
